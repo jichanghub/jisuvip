@@ -21,8 +21,5 @@
 ## 极速VIP跑路
 目前极速VIP没有跑路，可以放心使用。
 
-## 极速VIP评测
-更多有关极速VIP评测可访问：https://jichangzhu.com/node/jisuvip/
-
 ## 更多推荐
  - [免费分享好用的机场推荐与节点分享](https://github.com/jichanghub/jichangtuijian)
